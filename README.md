@@ -1,5 +1,5 @@
 # STM32
 STM32 Microcontroller Programs.
 
-# WIKI
+### [STM32 wiki](https://github.com/SeanBeagle/STM32/wiki)
 - [Setup Ubuntu for STM32 Development](https://github.com/SeanBeagle/STM32/wiki/Setup-Ubuntu-for-STM32-Development)
